@@ -31,23 +31,23 @@
     background-color: rgb(0, 98,65);
     
 }
-.t2
+.txt2
 {
     background-color: rgb(158, 34, 64)
 }
-.t3
+.txt3
 {
     background-color: rgb(236, 187, 77);
 }
-.t4
+.txt4
 {
     background-color: rgb(0, 113, 121);
 }
-.t6
+.txt5
 {
     background-color: rgb(255, 190, 158);
 }
-.t7
+.txt6
 {
     background-color: rgb(217, 232, 154);
 }
@@ -55,7 +55,7 @@
 {
     box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.2);
 }
-.f_img img
+.log_img img
 {
     width: 30px;
     height: 30px;
