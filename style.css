@@ -1,0 +1,62 @@
+#logo
+{
+    width: 60px;
+}
+#map
+{
+    width: 15px;
+}
+
+.for_images img
+{
+    width: 100%;
+    height: auto;
+}
+
+.for_text
+{
+    background-color: rgb(0, 98,65);
+}
+.for_text p
+{
+    font-size: 45px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.for_text .p1-sub
+{
+    font-size: 23px;
+}
+.btn_1
+{
+    background-color: rgb(0, 98,65);
+    
+}
+.t2
+{
+    background-color: rgb(158, 34, 64)
+}
+.t3
+{
+    background-color: rgb(236, 187, 77);
+}
+.t4
+{
+    background-color: rgb(0, 113, 121);
+}
+.t6
+{
+    background-color: rgb(255, 190, 158);
+}
+.t7
+{
+    background-color: rgb(217, 232, 154);
+}
+.footer_sub
+{
+    box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.2);
+}
+.f_img img
+{
+    width: 30px;
+    height: 30px;
+}
